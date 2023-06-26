@@ -7,7 +7,7 @@ h1{
 }
 
 p {
-    color: antiquewhite;
+    
 }
 
 h2 {
@@ -15,5 +15,7 @@ h2 {
 }
 
 a {
-    color: antiquewhite;
+    color: antiquewhite; 
 }
+
+p{color: antiquewhite;}
